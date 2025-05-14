@@ -17,3 +17,6 @@ Java (B-Trees etc)
 ```bash
 javac *.java
 java DBMain
+
+Author:
+@huzvert
